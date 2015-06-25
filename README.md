@@ -1,5 +1,5 @@
 # CiscoApp-1.0 
-
+##This version of the Cisco app is only for Logscape version 3.0 onwards.
 
 Monitor Cisco ASA and PIX family devices in a few quick easy step
 
@@ -17,7 +17,7 @@ Monitor Cisco ASA and PIX family devices in a few quick easy step
 ## Downloads
 
 
-* [Cisco App](https://github.com/logscape/ciscoapp/raw/master/dist/CiscoApp-1.0.zip)
+* [Cisco App](https://github.com/logscape/Cisco3/blob/master/CiscoApp-1.1.zip?raw=true)
 
 
 
