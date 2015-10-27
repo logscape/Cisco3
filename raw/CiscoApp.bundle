@@ -1,0 +1,6 @@
+<Bundle name="Cisco" version="1.4" system="false">
+  <status>UNINSTALLED</status>
+  <owner>info@liquidlabs.co.uk</owner>
+  <services>
+  </services>
+</Bundle>
